@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tamgiac",
+    "texture": "f0f40eff-ebe3-460f-b3a5-dbb1099cb63c",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      69,
+      45
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      69,
+      46
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

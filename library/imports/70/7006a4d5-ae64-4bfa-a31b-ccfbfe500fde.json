@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Layer 101 copy 2_2",
+    "texture": "40ec38d4-3a9e-400d-b6d6-37da167c2fe5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      176,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      176,
+      42
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

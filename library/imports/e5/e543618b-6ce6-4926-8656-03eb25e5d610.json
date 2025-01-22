@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zibeijing",
+    "texture": "d6ca7bc0-ce4d-4830-9fab-c63365ca1eb5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      784,
+      272
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      785,
+      272
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Layer 22 copy 8",
+    "texture": "e17251e9-736b-466f-98b2-2d7668e53e64",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      71,
+      71
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      71,
+      71
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

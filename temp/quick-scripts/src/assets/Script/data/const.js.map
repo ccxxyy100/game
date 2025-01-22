@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets\\Script\\data\\const.ts"],"names":[],"mappings":";;;;;;;AAAA,IAAY,UAGX;AAHD,WAAY,UAAU;IAClB,+BAAiB,CAAA;IACjB,2BAAa,CAAA;AACjB,CAAC,EAHW,UAAU,GAAV,kBAAU,KAAV,kBAAU,QAGrB","file":"","sourceRoot":"/","sourcesContent":["export enum SceneNames{\r\n    launch = \"launch\",\r\n    play = \"play\",\r\n}"]}

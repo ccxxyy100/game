@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "spider-bot",
+    "texture": "934d66d8-209c-494e-beb5-cba160d1aadb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      125,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      125,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

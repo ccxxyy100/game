@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "spider-top2",
+    "texture": "78536d47-e293-4375-923a-72bb598fc388",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      97,
+      48
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      97,
+      48
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

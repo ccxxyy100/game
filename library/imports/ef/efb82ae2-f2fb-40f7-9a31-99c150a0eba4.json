@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Group 52 copy",
+    "texture": "69f23986-fa0f-4d1b-8365-bcff65411f1f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      235,
+      180
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      235,
+      180
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

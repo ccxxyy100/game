@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "txt_victory",
+    "texture": "e23c437e-c037-4e67-9261-5167cea2103b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      628,
+      229
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      628,
+      229
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

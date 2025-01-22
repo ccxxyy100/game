@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_cupMask",
+    "texture": "3f9c5d77-df64-4582-91e6-2379daac62b9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      76,
+      330
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      76,
+      330
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

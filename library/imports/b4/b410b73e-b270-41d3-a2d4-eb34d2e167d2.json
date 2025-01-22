@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jiangbeidizuo",
+    "texture": "aef2c3ea-4184-401b-a841-b863274b83cd",
+    "atlas": "",
+    "rect": [
+      10,
+      0,
+      418,
+      158
+    ],
+    "offset": [
+      5,
+      4
+    ],
+    "originalSize": [
+      428,
+      166
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

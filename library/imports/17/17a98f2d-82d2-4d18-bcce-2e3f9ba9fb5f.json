@@ -1,0 +1,86 @@
+{
+  "__type__": "cc.BitmapFont",
+  "_name": "number_1",
+  "_objFlags": 0,
+  "_native": "",
+  "fntDataStr": "",
+  "spriteFrame": {
+    "__uuid__": "0b543f4c-28b9-4697-bc06-f66c979684fa"
+  },
+  "fontSize": 32,
+  "_fntConfig": {
+    "commonHeight": 32,
+    "fontSize": 32,
+    "atlasName": "number_1.png",
+    "fontDefDictionary": {
+      "48": {
+        "rect": {
+          "x": 2,
+          "y": 2,
+          "width": 25,
+          "height": 31
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 25
+      },
+      "49": {
+        "rect": {
+          "x": 29,
+          "y": 2,
+          "width": 18,
+          "height": 31
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 18
+      },
+      "50": {
+        "rect": {
+          "x": 49,
+          "y": 2,
+          "width": 25,
+          "height": 31
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 25
+      },
+      "51": {
+        "rect": {
+          "x": 76,
+          "y": 2,
+          "width": 24,
+          "height": 32
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 24
+      },
+      "52": {
+        "rect": {
+          "x": 102,
+          "y": 2,
+          "width": 23,
+          "height": 30
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 23
+      },
+      "53": {
+        "rect": {
+          "x": 127,
+          "y": 2,
+          "width": 21,
+          "height": 30
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 21
+      }
+    },
+    "kerningDict": {}
+  },
+  "_fontDefDictionary": null
+}

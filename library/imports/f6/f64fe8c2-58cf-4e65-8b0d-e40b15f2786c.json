@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "define.d",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "declare namespace display{\r\n    let width:number;\r\n    let height:number;\r\n    let cx:number;\r\n    let cy:number;\r\n    /**实际高度减去设计分辨率高度 */\r\n    let gapHeight:number;\r\n    /**实际分辨率比设计分辨率，缩放系数 */\r\n    let screenScale:cc.Vec2;\r\n    /**屏幕高宽比 */\r\n    let aspectRatio:number;\r\n    /**是否是长屏幕（目前是判断aspectRatio>=2.0） */\r\n    let isLongScreen:boolean;\r\n    /**系统语言 zh,en */\r\n    let sys_lang:string;\r\n    /**系统地区,cn,hk,tw,us */\r\n    let sys_region:string;\r\n    /**系统的 语言_地区 zh_cn,zh_hk,en_us*/\r\n    let sys_langCode:string;\r\n    \r\n    /**是否在后台运行 */\r\n    let isInBackground:boolean;\r\n}"
+}
